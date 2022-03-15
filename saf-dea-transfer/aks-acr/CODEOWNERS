@@ -1,0 +1,3 @@
+# restrict access to test folder
+
+test/*                        @sede-x/innersource-iac-maintainers
